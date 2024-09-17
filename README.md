@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FahizOzil
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning backend language
+- 🌱 I’m a backend developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
