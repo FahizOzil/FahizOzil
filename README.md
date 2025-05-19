@@ -6,9 +6,8 @@
 </p>
 
 - 🔭 I’m currently working on **Versatile Marketers**
-- 🌱 I’ve recently completed learning **React.js & Tailwind CSS**
-- 📘 I’m now learning **DevOps (Docker, CI/CD), TypeScript, and Advanced Laravel Concepts (Queues, Events, Broadcasting)**
-- 💬 Ask me about **Laravel, PHP, JavaScript, React, MySQL, APIs**
+- 🌱 I’m currently learning **DevOps (Docker, CI/CD), GraphQL, and Testing Tools**
+- 💬 Ask me about **Laravel (including advanced topics), PHP, JavaScript, TypeScript, React, MySQL, APIs**
 - 📫 Reach me at: **fahizozil17@gmail.com** / **webfahiz@gmail.com**
 - ⚡ Fun fact: *I love building UIs, solving backend problems, and sipping chai late at night.*
 
@@ -50,10 +49,10 @@
 ### 🎯 Currently Focusing On:
 - Building anime, book, and business websites for clients
 - Integrating payment gateways, APIs, and secure video streaming features
-- DevOps practices using Docker & GitHub Actions
-- SEO optimization and UI/UX improvements
-- Mastering **Laravel Queues, Events, Notifications, and Broadcasting**
-- Enhancing TypeScript, testing, and performance optimization in full-stack apps
+- Implementing DevOps practices using Docker, GitHub Actions & CI/CD
+- Testing with tools like PHPUnit, Pest, and Cypress
+- Working with GraphQL APIs for efficient data fetching
+- SEO optimization, code performance & UI/UX enhancement
 
 ---
 
