@@ -6,17 +6,18 @@
 </p>
 
 - 🔭 I’m currently working on **Versatile Marketers**
-- 🌱 I’m currently learning **React.js, Tailwind CSS, and Laravel Broadcasting**
+- 🌱 I’ve recently completed learning **React.js & Tailwind CSS**
+- 📘 I’m now learning **DevOps (Docker, CI/CD), TypeScript, and Advanced Laravel Concepts (Queues, Events, Broadcasting)**
 - 💬 Ask me about **Laravel, PHP, JavaScript, React, MySQL, APIs**
-- 📫 How to reach me: **fahizozil17@gmail.com** / **webfahiz@gmail.com**
-- ⚡ Fun fact: *I love learning, building UIs, and drinking chai late at night.*
+- 📫 Reach me at: **fahizozil17@gmail.com** / **webfahiz@gmail.com**
+- ⚡ Fun fact: *I love building UIs, solving backend problems, and sipping chai late at night.*
 
 ---
 
 ### 🧰 Languages and Tools I Use:
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,js,ts,react,next,vue,nuxt,jquery,php,laravel,wordpress,nodejs,express,mysql,mongodb,sqlite,graphql,redis,figma,xd,vscode,git,github,netlify,vercel,cpanel,docker" />
+  <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,js,ts,react,next,vue,nuxt,jquery,php,laravel,wordpress,nodejs,express,mysql,mongodb,sqlite,graphql,redis,figma,xd,vscode,git,github,netlify,vercel,cpanel,docker,nginx,linux,bash" />
 </p>
 
 ---
@@ -48,12 +49,13 @@
 
 ### 🎯 Currently Focusing On:
 - Building anime, book, and business websites for clients
-- Integrating payment gateways, APIs, and video streaming features
+- Integrating payment gateways, APIs, and secure video streaming features
+- DevOps practices using Docker & GitHub Actions
 - SEO optimization and UI/UX improvements
-- Mastering Laravel Broadcasting and React-based admin panels
+- Mastering **Laravel Queues, Events, Notifications, and Broadcasting**
+- Enhancing TypeScript, testing, and performance optimization in full-stack apps
 
 ---
 
 > 🔥 *“Code is like humor. When you have to explain it, it’s bad.”*  
 > — *Cory House*
-
