@@ -2,18 +2,18 @@
 <h3 align="center">A Passionate Full-Stack Web Developer 🚀</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="coding gif" />
 </p>
 
-- 🔭 I’m currently working on **Versatile Marketers**
-- 🌱 I’m currently learning **DevOps (Docker, CI/CD), GraphQL, and Testing Tools**
-- 💬 Ask me about **Laravel (including advanced topics), PHP, JavaScript, TypeScript, React, MySQL, APIs**
+- 🔭 Currently working at **Versatile Marketers**
+- 🌱 Learning **DevOps (Docker, CI/CD), GraphQL, and Testing Tools**
+- 💬 Ask me about: **Laravel (advanced), PHP, JavaScript, TypeScript, React, MySQL, REST & GraphQL APIs**
 - 📫 Reach me at: **fahizozil17@gmail.com** / **webfahiz@gmail.com**
-- ⚡ Fun fact: *I love building UIs, solving backend problems, and sipping chai late at night.*
+- ⚡ Fun fact: *I'm addicted to solving backend challenges, building cool UIs, and sipping chai at midnight.*
 
 ---
 
-### 🧰 Languages and Tools I Use:
+### 🛠️ Tech Stack & Tools I Use
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,scss,tailwind,bootstrap,js,ts,react,next,vue,nuxt,jquery,php,laravel,wordpress,nodejs,express,mysql,mongodb,sqlite,graphql,redis,figma,xd,vscode,git,github,netlify,vercel,cpanel,docker,nginx,linux,bash" />
@@ -21,7 +21,7 @@
 
 ---
 
-### 🌐 Connect with me:
+### 🌐 Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/fahiz-saleem-b94411264/" target="_blank">
@@ -37,24 +37,25 @@
 
 ---
 
-### 📈 GitHub Stats:
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fahizdev&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=fahizdev&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=FahizOzil&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=FahizOzil&theme=radical" width="48%" />
 </p>
 
 ---
 
-### 🎯 Currently Focusing On:
-- Building anime, book, and business websites for clients
-- Integrating payment gateways, APIs, and secure video streaming features
-- Implementing DevOps practices using Docker, GitHub Actions & CI/CD
-- Testing with tools like PHPUnit, Pest, and Cypress
-- Working with GraphQL APIs for efficient data fetching
-- SEO optimization, code performance & UI/UX enhancement
+### 🚀 What I'm Currently Building
+
+- Anime, book, and business websites for global clients
+- Payment gateway integrations & secure video streaming
+- CI/CD pipelines and Dockerized applications
+- Backend testing with PHPUnit, Pest, and Cypress
+- Scalable GraphQL APIs for high-performance apps
+- SEO optimization & clean, user-focused UIs
 
 ---
 
-> 🔥 *“Code is like humor. When you have to explain it, it’s bad.”*  
+> 🔥 *"Code is like humor. When you have to explain it, it’s bad."*  
 > — *Cory House*
